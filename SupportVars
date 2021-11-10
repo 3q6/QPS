@@ -1,0 +1,9 @@
+local CurrentUser = game.Players.LocalPlayer
+local CurrentPlayers = game.Players
+local FunctionError = "Function Error 707"
+local HostingService = "RobloxGS"
+local HostingUsernam = "CurrentUserStatusNil"
+
+if HostingUsernam = nil then
+  print("Username Hoster Nil")
+end
